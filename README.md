@@ -5,10 +5,23 @@
  Link to Drive Folder: https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing <br>
  Link to Presentation: https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf <br>
  Course Page:  https://www.cl.cam.ac.uk/teaching/2324/L65/ <br>
-## Links
 
-[![Link to Paper](https://img.shields.io/badge/Link_to-Paper-blue?style=for-the-badge)](#)  
-[![Link to Drive Folder](https://img.shields.io/badge/Link_to-Drive_Folder-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing)  
-[![Link to Presentation](https://img.shields.io/badge/Link_to-Presentation-green?style=for-the-badge)](https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf)  
-[![Course Page](https://img.shields.io/badge/Course-Page-red?style=for-the-badge)](https://www.cl.cam.ac.uk/teaching/2324/L65/)
+<div style="display: flex; gap: 10px;">
 
+  <a href="#" style="background-color: #0078D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    Link to Paper
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing" style="background-color: #0078D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    Link to Drive Folder
+  </a>
+
+  <a href="https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf" style="background-color: #0078D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    Link to Presentation
+  </a>
+
+  <a href="https://www.cl.cam.ac.uk/teaching/2324/L65/" style="background-color: #0078D4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    Course Page
+  </a>
+
+</div>
