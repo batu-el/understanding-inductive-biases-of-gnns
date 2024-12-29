@@ -5,12 +5,10 @@
  Link to Drive Folder: https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing <br>
  Link to Presentation: https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf <br>
  Course Page:  https://www.cl.cam.ac.uk/teaching/2324/L65/ <br>
+## Links
 
-[![Button Text](https://img.shields.io/badge/Label-Message-Color)](https://link_to_your_target.com)
-[![Visit my website](https://img.shields.io/badge/Website-Visit-blue)](https://example.com)
-<a href="https://github.com/your-username" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github" alt="Follow on GitHub">
-</a>
-
-
+[![Link to Paper](https://img.shields.io/badge/Link_to-Paper-blue?style=for-the-badge)](#)  
+[![Link to Drive Folder](https://img.shields.io/badge/Link_to-Drive_Folder-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing)  
+[![Link to Presentation](https://img.shields.io/badge/Link_to-Presentation-green?style=for-the-badge)](https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf)  
+[![Course Page](https://img.shields.io/badge/Course-Page-red?style=for-the-badge)](https://www.cl.cam.ac.uk/teaching/2324/L65/)
 
