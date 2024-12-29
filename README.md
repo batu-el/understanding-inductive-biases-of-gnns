@@ -7,4 +7,13 @@
  Course Page:  https://www.cl.cam.ac.uk/teaching/2324/L65/ <br>
 
 [![Button Text](https://img.shields.io/badge/Label-Message-Color)](https://link_to_your_target.com)
+[![Visit my website](https://img.shields.io/badge/Website-Visit-blue)](https://example.com)
+<a href="https://github.com/your-username" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github" alt="Follow on GitHub">
+</a>
+<a href="https://example.com" style="background-color: #0078D4; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Custom Button
+</a>
+
+
 
