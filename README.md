@@ -3,8 +3,7 @@
 
  Link to Paper: <br>
  Link to Drive Folder: https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing <br>
- Link to Presentation:  <br>
- Course Page:  <br>
-
+ Link to Presentation: https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf <br>
+ Course Page:  https://www.cl.cam.ac.uk/teaching/2324/L65/ <br>
 
 
