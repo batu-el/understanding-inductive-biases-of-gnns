@@ -11,9 +11,6 @@
 <a href="https://github.com/your-username" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github" alt="Follow on GitHub">
 </a>
-<a href="https://example.com" style="background-color: #0078D4; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-  Custom Button
-</a>
 
 
 
