@@ -6,4 +6,5 @@
  Link to Presentation: https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf <br>
  Course Page:  https://www.cl.cam.ac.uk/teaching/2324/L65/ <br>
 
+[![Button Text](https://img.shields.io/badge/Label-Message-Color)](https://link_to_your_target.com)
 
