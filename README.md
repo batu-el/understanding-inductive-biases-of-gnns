@@ -13,7 +13,7 @@ Graph Neural Networks (GNNs) have emerged as a useful class of neural networks w
 ![Alt text](assets/models.png)
 
 ## Attention to Neighbors
-![Alt text](assets/attentiontoneighbors.png.png)
+![Alt text](assets/attentiontoneighbors.png)
 
 ## Information Flow Patterns
 ![Alt text](assets/heatmaps.png)
