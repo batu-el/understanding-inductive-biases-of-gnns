@@ -22,6 +22,6 @@ Graph Neural Networks (GNNs) have emerged as a useful class of neural networks w
 @article{differentinductivebias2024,
     title={Different Inductive Biases Can Lead to Similar Performance via Distinct Algorithms},
     author={El, Batu and Choudhury, Deepro and Joshi, Chaitanya},
-    journal={arXiv preprint},
+    journal={preprint},
     year={2024}
 }
