@@ -22,7 +22,7 @@ We introduce Attention Graphs, a new tool for mechanistic interpretability of Gr
 
 ## Citation
 ```bibtex
-@article{bel2024,
+@article{tmiofgtviaag2024,
     title={Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs},
     author={El, Batu and Choudhury, Deepro and Joshi, Chaitanya},
     journal={preprint},
