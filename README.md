@@ -1,7 +1,7 @@
-# Different Inductive Biases Can Lead to Similar Performance via Distinct Algorithms
+# Experiments for "Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs"
 
 [![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://arxiv.org/abs/2502.12352)
-[![Drive Folder](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing)
+[![Data](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing)
 [![Presentation](https://img.shields.io/badge/Presentation-007ACC?style=for-the-badge&labelColor=007ACC)](https://github.com/batu-el/understanding-inductive-biases-of-gnns/blob/main/presentation.pdf)
 [![Course Page](https://img.shields.io/badge/Course_Page-007ACC?style=for-the-badge&labelColor=007ACC)](https://www.cl.cam.ac.uk/teaching/2324/L65/)
 
@@ -22,8 +22,8 @@ We introduce Attention Graphs, a new tool for mechanistic interpretability of Gr
 
 ## Citation
 ```bibtex
-@article{differentinductivebias2024,
-    title={Different Inductive Biases Can Lead to Similar Performance via Distinct Algorithms},
+@article{bel2024,
+    title={Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs},
     author={El, Batu and Choudhury, Deepro and Joshi, Chaitanya},
     journal={preprint},
     year={2024}
