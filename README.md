@@ -1,4 +1,4 @@
-# Experiments for "Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs"
+# Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs
 
 [![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://arxiv.org/abs/2502.12352)
 [![Data](https://img.shields.io/badge/Data-007ACC?style=for-the-badge&labelColor=007ACC)](https://drive.google.com/drive/folders/1rCwxa3mjwZ9m24sl7gttgiJ-dzUZoNt1?usp=sharing)
@@ -22,9 +22,10 @@ We introduce Attention Graphs, a new tool for mechanistic interpretability of Gr
 
 ## Citation
 ```bibtex
-@article{tmiofgtviaag2024,
-    title={Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs},
-    author={El, Batu and Choudhury, Deepro and Joshi, Chaitanya},
-    journal={preprint},
-    year={2024}
+@article{el2025towards,
+  title={Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs},
+  author={El, Batu and Choudhury, Deepro and Li{\`o}, Pietro and Joshi, Chaitanya K},
+  journal={arXiv preprint arXiv:2502.12352},
+  year={2025}
 }
+```
